@@ -1,16 +1,7 @@
 {
-  "lastUpdated": "2025-06-05T05:05:01.804Z",
+  "lastUpdated": "2025-06-08T03:24:04.049Z",
   "eventsCount": 20,
   "events": [
-    {
-      "title": "IERAKSTS. IFBB Starptautiskais kauss fitnesa sporta veidos “Rīgas Pērle”",
-      "date": "",
-      "location": "Latvija, Ieraksts",
-      "link": "https://www.bilesuparadize.lv/lv/event/153473",
-      "available": true,
-      "priceMin": "10€",
-      "seats": "ieejas biļetes"
-    },
     {
       "title": "FUTBOLA LAUKUMS. Teicama spēle teicamos apstākļos",
       "date": "",
@@ -22,2290 +13,4698 @@
     },
     {
       "title": "Līgatnes dabas takas",
-      "date": "Ceturtdiena , 5. jūnijs, 09:00",
+      "date": "Svētdiena , 8. jūnijs, 09:00",
       "location": "Līgatne, Līgatnes dabas takas",
-      "link": "https://www.bilesuparadize.lv/lv/event/153121",
+      "link": "https://www.bilesuparadize.lv/lv/event/153124",
       "available": true,
       "priceMin": "2.5€",
       "seats": "ieejas biļetes"
     },
     {
-      "title": "Latvijas Leļļu teātra viesizrāde I GAISMA, ES TEVI DZIRDU",
-      "date": "Ceturtdiena , 5. jūnijs, 11:00",
-      "location": "Daugavpils, Daugavpils teātris Eksperimentālā skatuve",
-      "link": "https://www.bilesuparadize.lv/lv/event/152897",
-      "available": false,
-      "priceMin": "10€",
-      "seats": "ieejas biļetes"
-    },
-    {
-      "title": "Concerto Piccolo",
-      "date": "Ceturtdiena , 5. jūnijs, 12:00",
-      "location": "Rīga, Rīgas Doms",
-      "link": "https://www.bilesuparadize.lv/lv/event/151486",
+      "title": "Tautas lietišķās mākslas darinājumu Gadatirgus",
+      "date": "Svētdiena , 8. jūnijs, 09:00",
+      "location": "Rīga, Latvijas Etnogrāfiskais brīvdabas muzejs",
+      "link": "https://www.bilesuparadize.lv/lv/event/153567",
       "available": true,
-      "priceMin": "15€",
+      "priceMin": "4€",
       "seats": "ieejas biļetes"
     },
     {
-      "title": "Puika, kurš redzēja tumsā",
-      "date": "Ceturtdiena , 5. jūnijs, 13:00",
-      "location": "Rīga, Nacionālā teātra Jaunā zāle",
-      "link": "https://www.bilesuparadize.lv/lv/event/150877",
-      "available": false,
-      "priceMin": "38€",
+      "title": "KINO/KĀ PIERADINĀT PŪĶI",
+      "date": "Svētdiena , 8. jūnijs, 11:00",
+      "location": "Daugavpils, Daugavpils Kultūras Pils, Multimediju zāle",
+      "link": "https://www.bilesuparadize.lv/lv/event/153825",
+      "available": true,
+      "priceMin": "5€",
       "seats": [
         {
+          "row_num": "8",
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 138,
+          "available": true
+        },
+        {
           "row_num": "6",
-          "seat_num": "80",
-          "price": "35.00",
-          "horizontal_position": 218,
-          "vertical_position": 120,
-          "available": false
-        },
-        {
-          "row_num": "2",
-          "seat_num": "16",
-          "price": "38.00",
-          "horizontal_position": 92,
-          "vertical_position": 64,
-          "available": false
-        },
-        {
-          "row_num": "4",
-          "seat_num": "41",
-          "price": "35.00",
-          "horizontal_position": 50,
-          "vertical_position": 92,
-          "available": false
-        },
-        {
-          "row_num": "5",
-          "seat_num": "62",
-          "price": "38.00",
-          "horizontal_position": 155,
-          "vertical_position": 106,
-          "available": false
-        },
-        {
-          "row_num": "2",
-          "seat_num": "19",
-          "price": "38.00",
-          "horizontal_position": 134,
-          "vertical_position": 64,
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 110,
           "available": false
         },
         {
           "row_num": "3",
-          "seat_num": "37",
-          "price": "38.00",
-          "horizontal_position": 197,
-          "vertical_position": 78,
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 124,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "11",
+          "price": "5.00",
+          "horizontal_position": 94,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 138,
+          "available": true
+        },
+        {
+          "row_num": "6",
+          "seat_num": "10",
+          "price": "5.00",
+          "horizontal_position": 108,
+          "vertical_position": 110,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "12",
+          "price": "5.00",
+          "horizontal_position": 80,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 68,
           "available": true
         },
         {
           "row_num": "5",
-          "seat_num": "65",
-          "price": "38.00",
-          "horizontal_position": 197,
-          "vertical_position": 106,
-          "available": false
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 96,
+          "available": true
         },
         {
-          "row_num": "5",
-          "seat_num": "59",
-          "price": "38.00",
-          "horizontal_position": 113,
-          "vertical_position": 106,
-          "available": false
-        },
-        {
-          "row_num": "3",
-          "seat_num": "26",
-          "price": "35.00",
-          "horizontal_position": 43,
-          "vertical_position": 78,
-          "available": false
-        },
-        {
-          "row_num": "4",
-          "seat_num": "44",
-          "price": "38.00",
-          "horizontal_position": 92,
-          "vertical_position": 92,
+          "row_num": "8",
+          "seat_num": "9",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 138,
           "available": false
         },
         {
           "row_num": "1",
-          "seat_num": "4",
-          "price": "38.00",
-          "horizontal_position": 99,
-          "vertical_position": 50,
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 40,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 54,
           "available": true
         },
         {
           "row_num": "3",
-          "seat_num": "29",
-          "price": "38.00",
-          "horizontal_position": 85,
-          "vertical_position": 78,
+          "seat_num": "12",
+          "price": "5.00",
+          "horizontal_position": 80,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "*",
+          "seat_num": "*",
+          "price": "3.00",
+          "horizontal_position": 98,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "12",
+          "price": "5.00",
+          "horizontal_position": 108,
+          "vertical_position": 138,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "11",
+          "price": "5.00",
+          "horizontal_position": 94,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "9",
+          "price": "5.00",
+          "horizontal_position": 122,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "15",
+          "price": "5.00",
+          "horizontal_position": 66,
+          "vertical_position": 138,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 124,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 138,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "6",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 110,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "10",
+          "price": "5.00",
+          "horizontal_position": 108,
+          "vertical_position": 124,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "9",
+          "price": "5.00",
+          "horizontal_position": 122,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "6",
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 110,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 262,
+          "vertical_position": 138,
+          "available": true
+        },
+        {
+          "row_num": "6",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 110,
           "available": false
         },
         {
           "row_num": "2",
-          "seat_num": "22",
-          "price": "38.00",
-          "horizontal_position": 176,
-          "vertical_position": 64,
+          "seat_num": "10",
+          "price": "5.00",
+          "horizontal_position": 108,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 40,
           "available": false
         },
         {
+          "row_num": "3",
+          "seat_num": "10",
+          "price": "5.00",
+          "horizontal_position": 108,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
           "row_num": "6",
-          "seat_num": "72",
-          "price": "38.00",
-          "horizontal_position": 106,
-          "vertical_position": 120,
+          "seat_num": "11",
+          "price": "5.00",
+          "horizontal_position": 94,
+          "vertical_position": 110,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "10",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 40,
+          "available": false
+        },
+        {
+          "row_num": "*",
+          "seat_num": "*",
+          "price": "3.00",
+          "horizontal_position": 80,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 138,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 124,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "12",
+          "price": "5.00",
+          "horizontal_position": 80,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 96,
           "available": false
         },
         {
           "row_num": "4",
-          "seat_num": "47",
-          "price": "38.00",
-          "horizontal_position": 134,
-          "vertical_position": 92,
-          "available": false
-        },
-        {
-          "row_num": "6",
-          "seat_num": "68",
-          "price": "35.00",
-          "horizontal_position": 50,
-          "vertical_position": 120,
-          "available": false
-        },
-        {
-          "row_num": "4",
-          "seat_num": "50",
-          "price": "38.00",
-          "horizontal_position": 176,
-          "vertical_position": 92,
-          "available": false
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 82,
+          "available": true
         },
         {
           "row_num": "2",
-          "seat_num": "25",
-          "price": "35.00",
-          "horizontal_position": 218,
-          "vertical_position": 64,
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 124,
           "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "16",
+          "price": "5.00",
+          "horizontal_position": 52,
+          "vertical_position": 138,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "9",
+          "price": "5.00",
+          "horizontal_position": 122,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "11",
+          "price": "5.00",
+          "horizontal_position": 94,
+          "vertical_position": 124,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "13",
+          "price": "5.00",
+          "horizontal_position": 94,
+          "vertical_position": 138,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "12",
+          "price": "5.00",
+          "horizontal_position": 80,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "6",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 110,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 248,
+          "vertical_position": 138,
+          "available": true
+        },
+        {
+          "row_num": "6",
+          "seat_num": "9",
+          "price": "5.00",
+          "horizontal_position": 122,
+          "vertical_position": 110,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "11",
+          "price": "5.00",
+          "horizontal_position": 94,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 96,
+          "available": true
         },
         {
           "row_num": "1",
           "seat_num": "7",
-          "price": "38.00",
-          "horizontal_position": 141,
-          "vertical_position": 50,
-          "available": false
-        },
-        {
-          "row_num": "6",
-          "seat_num": "69",
-          "price": "35.00",
-          "horizontal_position": 64,
-          "vertical_position": 120,
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 40,
           "available": false
         },
         {
           "row_num": "4",
-          "seat_num": "53",
-          "price": "35.00",
-          "horizontal_position": 218,
-          "vertical_position": 92,
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 82,
           "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 138,
+          "available": true
         },
         {
           "row_num": "6",
-          "seat_num": "78",
-          "price": "38.00",
-          "horizontal_position": 190,
-          "vertical_position": 120,
-          "available": false
-        },
-        {
-          "row_num": "2",
-          "seat_num": "14",
-          "price": "35.00",
-          "horizontal_position": 64,
-          "vertical_position": 64,
-          "available": false
-        },
-        {
-          "row_num": "5",
-          "seat_num": "60",
-          "price": "38.00",
-          "horizontal_position": 127,
-          "vertical_position": 106,
-          "available": false
-        },
-        {
-          "row_num": "5",
-          "seat_num": "57",
-          "price": "38.00",
-          "horizontal_position": 85,
-          "vertical_position": 106,
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 110,
           "available": false
         },
         {
           "row_num": "3",
-          "seat_num": "32",
-          "price": "38.00",
-          "horizontal_position": 127,
-          "vertical_position": 78,
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "10",
+          "price": "5.00",
+          "horizontal_position": 108,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 138,
           "available": false
         },
         {
+          "row_num": "3",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 124,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "14",
+          "price": "5.00",
+          "horizontal_position": 80,
+          "vertical_position": 138,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 96,
+          "available": false
+        },
+        {
+          "row_num": "*",
+          "seat_num": "*",
+          "price": "3.00",
+          "horizontal_position": 116,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "11",
+          "price": "5.00",
+          "horizontal_position": 94,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
           "row_num": "6",
-          "seat_num": "75",
-          "price": "38.00",
-          "horizontal_position": 148,
+          "seat_num": "12",
+          "price": "5.00",
+          "horizontal_position": 80,
+          "vertical_position": 110,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "11",
+          "price": "5.00",
+          "horizontal_position": 122,
+          "vertical_position": 138,
+          "available": true
+        },
+        {
+          "row_num": "6",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 110,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "9",
+          "price": "5.00",
+          "horizontal_position": 122,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "12",
+          "price": "5.00",
+          "horizontal_position": 80,
+          "vertical_position": 124,
+          "available": true
+        },
+        {
+          "row_num": "6",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 110,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "9",
+          "price": "5.00",
+          "horizontal_position": 122,
+          "vertical_position": 124,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "10",
+          "price": "5.00",
+          "horizontal_position": 108,
+          "vertical_position": 96,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "EKSKURSIJA KONCERTZĀLĒ LIELAIS DZINTARS/LV",
+      "date": "Svētdiena , 8. jūnijs, 11:00",
+      "location": "Liepāja, Liepājas koncertzāle LIELAIS DZINTARS",
+      "link": "https://www.bilesuparadize.lv/lv/event/149963",
+      "available": true,
+      "priceMin": "4€",
+      "seats": "ieejas biļetes"
+    },
+    {
+      "title": "Emīls un Berlīnes zēni",
+      "date": "Svētdiena , 8. jūnijs, 11:00",
+      "location": "Rīga, Latvijas Leļļu teātris Lielā zāle",
+      "link": "https://www.bilesuparadize.lv/lv/event/150218",
+      "available": true,
+      "priceMin": "17€",
+      "seats": [
+        {
+          "row_num": "6",
+          "seat_num": "4",
+          "price": "20.00",
+          "horizontal_position": 246,
           "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "11",
+          "price": "20.00",
+          "horizontal_position": 148,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "13",
+          "price": "17.00",
+          "horizontal_position": 120,
+          "vertical_position": 148,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "12",
+          "price": "22.00",
+          "horizontal_position": 134,
+          "vertical_position": 92,
           "available": false
         },
         {
           "row_num": "1",
           "seat_num": "10",
-          "price": "38.00",
-          "horizontal_position": 183,
+          "price": "22.00",
+          "horizontal_position": 148,
           "vertical_position": 50,
           "available": false
         },
         {
-          "row_num": "3",
-          "seat_num": "35",
-          "price": "38.00",
-          "horizontal_position": 169,
-          "vertical_position": 78,
+          "row_num": "10",
+          "seat_num": "2",
+          "price": "17.00",
+          "horizontal_position": 274,
+          "vertical_position": 176,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "3",
+          "price": "20.00",
+          "horizontal_position": 260,
+          "vertical_position": 134,
           "available": false
         },
         {
+          "row_num": "12",
+          "seat_num": "3",
+          "price": "12.00",
+          "horizontal_position": 78,
+          "vertical_position": 204,
+          "available": true
+        },
+        {
           "row_num": "2",
-          "seat_num": "20",
-          "price": "38.00",
-          "horizontal_position": 148,
+          "seat_num": "3",
+          "price": "20.00",
+          "horizontal_position": 260,
           "vertical_position": 64,
           "available": false
         },
         {
+          "row_num": "13",
+          "seat_num": "1",
+          "price": "12.00",
+          "horizontal_position": 106,
+          "vertical_position": 218,
+          "available": true
+        },
+        {
+          "row_num": "9",
+          "seat_num": "9",
+          "price": "17.00",
+          "horizontal_position": 176,
+          "vertical_position": 162,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "1",
+          "price": "20.00",
+          "horizontal_position": 288,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "15",
+          "price": "20.00",
+          "horizontal_position": 92,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
           "row_num": "5",
-          "seat_num": "66",
-          "price": "35.00",
-          "horizontal_position": 211,
+          "seat_num": "8",
+          "price": "20.00",
+          "horizontal_position": 190,
           "vertical_position": 106,
           "available": false
         },
         {
+          "row_num": "1",
+          "seat_num": "4",
+          "price": "22.00",
+          "horizontal_position": 232,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "16",
+          "price": "17.00",
+          "horizontal_position": 78,
+          "vertical_position": 148,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "7",
+          "price": "22.00",
+          "horizontal_position": 190,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "13",
+          "seat_num": "4",
+          "price": "12.00",
+          "horizontal_position": 64,
+          "vertical_position": 218,
+          "available": false
+        },
+        {
           "row_num": "3",
-          "seat_num": "38",
-          "price": "35.00",
-          "horizontal_position": 211,
+          "seat_num": "16",
+          "price": "20.00",
+          "horizontal_position": 78,
           "vertical_position": 78,
           "available": false
         },
         {
-          "row_num": "4",
-          "seat_num": "45",
-          "price": "38.00",
-          "horizontal_position": 106,
-          "vertical_position": 92,
+          "row_num": "10",
+          "seat_num": "5",
+          "price": "17.00",
+          "horizontal_position": 204,
+          "vertical_position": 176,
           "available": false
         },
         {
-          "row_num": "4",
-          "seat_num": "40",
-          "price": "35.00",
-          "horizontal_position": 36,
-          "vertical_position": 92,
+          "row_num": "2",
+          "seat_num": "6",
+          "price": "22.00",
+          "horizontal_position": 218,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "7",
+          "price": "20.00",
+          "horizontal_position": 204,
+          "vertical_position": 120,
           "available": false
         },
         {
           "row_num": "2",
           "seat_num": "17",
-          "price": "38.00",
-          "horizontal_position": 106,
+          "price": "20.00",
+          "horizontal_position": 64,
           "vertical_position": 64,
           "available": true
         },
         {
-          "row_num": "2",
-          "seat_num": "23",
-          "price": "38.00",
-          "horizontal_position": 190,
-          "vertical_position": 64,
+          "row_num": "9",
+          "seat_num": "12",
+          "price": "17.00",
+          "horizontal_position": 134,
+          "vertical_position": 162,
           "available": false
         },
         {
-          "row_num": "5",
-          "seat_num": "63",
-          "price": "38.00",
-          "horizontal_position": 169,
-          "vertical_position": 106,
+          "row_num": "9",
+          "seat_num": "6",
+          "price": "17.00",
+          "horizontal_position": 218,
+          "vertical_position": 162,
+          "available": false
+        },
+        {
+          "row_num": "10",
+          "seat_num": "13",
+          "price": "17.00",
+          "horizontal_position": 78,
+          "vertical_position": 176,
+          "available": true
+        },
+        {
+          "row_num": "11",
+          "seat_num": "15",
+          "price": "17.00",
+          "horizontal_position": 50,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "7",
+          "price": "17.00",
+          "horizontal_position": 204,
+          "vertical_position": 148,
           "available": false
         },
         {
           "row_num": "1",
           "seat_num": "1",
-          "price": "35.00",
-          "horizontal_position": 57,
+          "price": "20.00",
+          "horizontal_position": 274,
           "vertical_position": 50,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "14",
+          "price": "20.00",
+          "horizontal_position": 106,
+          "vertical_position": 134,
           "available": false
         },
         {
+          "row_num": "11",
+          "seat_num": "10",
+          "price": "17.00",
+          "horizontal_position": 120,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
           "row_num": "4",
-          "seat_num": "42",
-          "price": "38.00",
-          "horizontal_position": 64,
+          "seat_num": "3",
+          "price": "20.00",
+          "horizontal_position": 260,
           "vertical_position": 92,
           "available": false
         },
         {
-          "row_num": "3",
-          "seat_num": "27",
-          "price": "35.00",
-          "horizontal_position": 57,
-          "vertical_position": 78,
+          "row_num": "4",
+          "seat_num": "9",
+          "price": "22.00",
+          "horizontal_position": 176,
+          "vertical_position": 92,
           "available": false
         },
         {
-          "row_num": "1",
+          "row_num": "5",
           "seat_num": "2",
-          "price": "35.00",
-          "horizontal_position": 71,
-          "vertical_position": 50,
-          "available": false
-        },
-        {
-          "row_num": "6",
-          "seat_num": "76",
-          "price": "38.00",
-          "horizontal_position": 162,
-          "vertical_position": 120,
-          "available": false
-        },
-        {
-          "row_num": "4",
-          "seat_num": "51",
-          "price": "38.00",
-          "horizontal_position": 190,
-          "vertical_position": 92,
-          "available": false
-        },
-        {
-          "row_num": "1",
-          "seat_num": "8",
-          "price": "38.00",
-          "horizontal_position": 155,
-          "vertical_position": 50,
-          "available": false
-        },
-        {
-          "row_num": "6",
-          "seat_num": "70",
-          "price": "38.00",
-          "horizontal_position": 78,
-          "vertical_position": 120,
-          "available": false
-        },
-        {
-          "row_num": "3",
-          "seat_num": "30",
-          "price": "38.00",
-          "horizontal_position": 99,
-          "vertical_position": 78,
-          "available": false
-        },
-        {
-          "row_num": "5",
-          "seat_num": "55",
-          "price": "35.00",
-          "horizontal_position": 57,
+          "price": "20.00",
+          "horizontal_position": 274,
           "vertical_position": 106,
-          "available": false
-        },
-        {
-          "row_num": "1",
-          "seat_num": "5",
-          "price": "38.00",
-          "horizontal_position": 113,
-          "vertical_position": 50,
-          "available": false
-        },
-        {
-          "row_num": "6",
-          "seat_num": "73",
-          "price": "38.00",
-          "horizontal_position": 120,
-          "vertical_position": 120,
-          "available": false
-        },
-        {
-          "row_num": "4",
-          "seat_num": "48",
-          "price": "38.00",
-          "horizontal_position": 148,
-          "vertical_position": 92,
-          "available": false
-        },
-        {
-          "row_num": "5",
-          "seat_num": "58",
-          "price": "38.00",
-          "horizontal_position": 99,
-          "vertical_position": 106,
-          "available": false
-        },
-        {
-          "row_num": "2",
-          "seat_num": "18",
-          "price": "38.00",
-          "horizontal_position": 120,
-          "vertical_position": 64,
           "available": true
         },
         {
-          "row_num": "1",
-          "seat_num": "11",
-          "price": "35.00",
-          "horizontal_position": 197,
-          "vertical_position": 50,
-          "available": false
-        },
-        {
-          "row_num": "3",
-          "seat_num": "36",
-          "price": "38.00",
-          "horizontal_position": 183,
-          "vertical_position": 78,
-          "available": true
-        },
-        {
-          "row_num": "6",
-          "seat_num": "79",
-          "price": "35.00",
-          "horizontal_position": 204,
-          "vertical_position": 120,
-          "available": false
-        },
-        {
-          "row_num": "3",
-          "seat_num": "39",
-          "price": "35.00",
-          "horizontal_position": 225,
-          "vertical_position": 78,
-          "available": false
-        },
-        {
-          "row_num": "2",
-          "seat_num": "15",
-          "price": "38.00",
-          "horizontal_position": 78,
-          "vertical_position": 64,
-          "available": false
-        },
-        {
           "row_num": "5",
-          "seat_num": "61",
-          "price": "38.00",
-          "horizontal_position": 141,
+          "seat_num": "17",
+          "price": "20.00",
+          "horizontal_position": 64,
           "vertical_position": 106,
           "available": false
         },
         {
           "row_num": "3",
-          "seat_num": "33",
-          "price": "38.00",
-          "horizontal_position": 141,
-          "vertical_position": 78,
-          "available": false
-        },
-        {
-          "row_num": "5",
-          "seat_num": "54",
-          "price": "35.00",
-          "horizontal_position": 43,
-          "vertical_position": 106,
-          "available": false
-        },
-        {
-          "row_num": "2",
-          "seat_num": "24",
-          "price": "35.00",
-          "horizontal_position": 204,
-          "vertical_position": 64,
-          "available": false
-        },
-        {
-          "row_num": "5",
-          "seat_num": "67",
-          "price": "35.00",
-          "horizontal_position": 225,
-          "vertical_position": 106,
-          "available": false
-        },
-        {
-          "row_num": "5",
-          "seat_num": "64",
-          "price": "38.00",
-          "horizontal_position": 183,
-          "vertical_position": 106,
-          "available": false
-        },
-        {
-          "row_num": "2",
           "seat_num": "13",
-          "price": "35.00",
-          "horizontal_position": 50,
+          "price": "22.00",
+          "horizontal_position": 120,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "9",
+          "seat_num": "3",
+          "price": "17.00",
+          "horizontal_position": 260,
+          "vertical_position": 162,
+          "available": true
+        },
+        {
+          "row_num": "11",
+          "seat_num": "7",
+          "price": "17.00",
+          "horizontal_position": 176,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "14",
+          "price": "20.00",
+          "horizontal_position": 106,
           "vertical_position": 64,
           "available": false
         },
         {
-          "row_num": "4",
-          "seat_num": "49",
-          "price": "38.00",
+          "row_num": "8",
+          "seat_num": "10",
+          "price": "17.00",
           "horizontal_position": 162,
-          "vertical_position": 92,
+          "vertical_position": 148,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "17",
+          "price": "17.00",
+          "horizontal_position": 64,
+          "vertical_position": 148,
           "available": false
         },
         {
           "row_num": "4",
-          "seat_num": "43",
-          "price": "38.00",
-          "horizontal_position": 78,
+          "seat_num": "6",
+          "price": "22.00",
+          "horizontal_position": 218,
           "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "11",
+          "seat_num": "13",
+          "price": "17.00",
+          "horizontal_position": 78,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
+          "row_num": "6",
+          "seat_num": "15",
+          "price": "20.00",
+          "horizontal_position": 92,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "11",
+          "price": "20.00",
+          "horizontal_position": 148,
+          "vertical_position": 134,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "4",
+          "price": "17.00",
+          "horizontal_position": 246,
+          "vertical_position": 148,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "10",
+          "price": "22.00",
+          "horizontal_position": 162,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "5",
+          "price": "20.00",
+          "horizontal_position": 232,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "11",
+          "price": "22.00",
+          "horizontal_position": 148,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "4",
+          "price": "20.00",
+          "horizontal_position": 246,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "13",
+          "price": "20.00",
+          "horizontal_position": 120,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "6",
+          "price": "20.00",
+          "horizontal_position": 218,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "11",
+          "seat_num": "4",
+          "price": "17.00",
+          "horizontal_position": 218,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "12",
+          "price": "22.00",
+          "horizontal_position": 120,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "5",
+          "price": "20.00",
+          "horizontal_position": 232,
+          "vertical_position": 134,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "8",
+          "price": "20.00",
+          "horizontal_position": 190,
+          "vertical_position": 134,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "1",
+          "price": "17.00",
+          "horizontal_position": 288,
+          "vertical_position": 148,
+          "available": false
+        },
+        {
+          "row_num": "10",
+          "seat_num": "10",
+          "price": "17.00",
+          "horizontal_position": 120,
+          "vertical_position": 176,
+          "available": true
+        },
+        {
+          "row_num": "11",
+          "seat_num": "1",
+          "price": "17.00",
+          "horizontal_position": 288,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "5",
+          "price": "22.00",
+          "horizontal_position": 232,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "7",
+          "price": "22.00",
+          "horizontal_position": 204,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "12",
+          "price": "20.00",
+          "horizontal_position": 134,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "8",
+          "price": "22.00",
+          "horizontal_position": 190,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "15",
+          "price": "20.00",
+          "horizontal_position": 78,
+          "vertical_position": 50,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "1",
+          "price": "20.00",
+          "horizontal_position": 288,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "2",
+          "price": "20.00",
+          "horizontal_position": 274,
+          "vertical_position": 134,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "16",
+          "price": "20.00",
+          "horizontal_position": 78,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "9",
+          "price": "22.00",
+          "horizontal_position": 162,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "10",
+          "seat_num": "7",
+          "price": "17.00",
+          "horizontal_position": 176,
+          "vertical_position": 176,
+          "available": false
+        },
+        {
+          "row_num": "12",
+          "seat_num": "2",
+          "price": "12.00",
+          "horizontal_position": 92,
+          "vertical_position": 204,
+          "available": true
+        },
+        {
+          "row_num": "6",
+          "seat_num": "9",
+          "price": "20.00",
+          "horizontal_position": 176,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "9",
+          "seat_num": "14",
+          "price": "17.00",
+          "horizontal_position": 106,
+          "vertical_position": 162,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "7",
+          "price": "20.00",
+          "horizontal_position": 204,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "16",
+          "price": "20.00",
+          "horizontal_position": 78,
+          "vertical_position": 134,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "14",
+          "price": "20.00",
+          "horizontal_position": 106,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "15",
+          "price": "17.00",
+          "horizontal_position": 92,
+          "vertical_position": 148,
           "available": false
         },
         {
           "row_num": "1",
           "seat_num": "3",
-          "price": "38.00",
-          "horizontal_position": 85,
+          "price": "20.00",
+          "horizontal_position": 246,
           "vertical_position": 50,
           "available": false
         },
         {
+          "row_num": "11",
+          "seat_num": "12",
+          "price": "17.00",
+          "horizontal_position": 92,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "15",
+          "price": "20.00",
+          "horizontal_position": 92,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "10",
+          "seat_num": "4",
+          "price": "17.00",
+          "horizontal_position": 218,
+          "vertical_position": 176,
+          "available": false
+        },
+        {
+          "row_num": "13",
+          "seat_num": "3",
+          "price": "12.00",
+          "horizontal_position": 78,
+          "vertical_position": 218,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "17",
+          "price": "20.00",
+          "horizontal_position": 64,
+          "vertical_position": 78,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "4",
+          "price": "20.00",
+          "horizontal_position": 246,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "9",
+          "seat_num": "11",
+          "price": "17.00",
+          "horizontal_position": 148,
+          "vertical_position": 162,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "12",
+          "price": "17.00",
+          "horizontal_position": 134,
+          "vertical_position": 148,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "3",
+          "price": "20.00",
+          "horizontal_position": 260,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "9",
+          "seat_num": "5",
+          "price": "17.00",
+          "horizontal_position": 232,
+          "vertical_position": 162,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "10",
+          "price": "20.00",
+          "horizontal_position": 162,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "11",
+          "price": "22.00",
+          "horizontal_position": 148,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "10",
+          "seat_num": "1",
+          "price": "17.00",
+          "horizontal_position": 288,
+          "vertical_position": 176,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "6",
+          "price": "22.00",
+          "horizontal_position": 204,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "8",
+          "price": "22.00",
+          "horizontal_position": 190,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "17",
+          "price": "20.00",
+          "horizontal_position": 64,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
           "row_num": "2",
-          "seat_num": "21",
-          "price": "38.00",
+          "seat_num": "2",
+          "price": "20.00",
+          "horizontal_position": 274,
+          "vertical_position": 64,
+          "available": true
+        },
+        {
+          "row_num": "9",
+          "seat_num": "8",
+          "price": "17.00",
+          "horizontal_position": 190,
+          "vertical_position": 162,
+          "available": false
+        },
+        {
+          "row_num": "11",
+          "seat_num": "6",
+          "price": "17.00",
+          "horizontal_position": 190,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "6",
+          "price": "22.00",
+          "horizontal_position": 218,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "9",
+          "price": "17.00",
+          "horizontal_position": 176,
+          "vertical_position": 148,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "13",
+          "price": "22.00",
+          "horizontal_position": 120,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "9",
+          "seat_num": "2",
+          "price": "17.00",
+          "horizontal_position": 274,
+          "vertical_position": 162,
+          "available": false
+        },
+        {
+          "row_num": "9",
+          "seat_num": "17",
+          "price": "17.00",
+          "horizontal_position": 64,
+          "vertical_position": 162,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "5",
+          "price": "22.00",
+          "horizontal_position": 232,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "10",
+          "price": "20.00",
+          "horizontal_position": 162,
+          "vertical_position": 134,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "3",
+          "price": "17.00",
+          "horizontal_position": 260,
+          "vertical_position": 148,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "9",
+          "price": "22.00",
+          "horizontal_position": 176,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "14",
+          "price": "20.00",
+          "horizontal_position": 106,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "11",
+          "seat_num": "9",
+          "price": "17.00",
+          "horizontal_position": 148,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
+          "row_num": "11",
+          "seat_num": "3",
+          "price": "17.00",
+          "horizontal_position": 260,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
+          "row_num": "12",
+          "seat_num": "5",
+          "price": "12.00",
+          "horizontal_position": 50,
+          "vertical_position": 204,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "10",
+          "price": "22.00",
           "horizontal_position": 162,
           "vertical_position": 64,
           "available": false
         },
         {
+          "row_num": "10",
+          "seat_num": "12",
+          "price": "17.00",
+          "horizontal_position": 92,
+          "vertical_position": 176,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "2",
+          "price": "20.00",
+          "horizontal_position": 274,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "13",
+          "price": "20.00",
+          "horizontal_position": 120,
+          "vertical_position": 134,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "16",
+          "price": "20.00",
+          "horizontal_position": 78,
+          "vertical_position": 64,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "7",
+          "price": "20.00",
+          "horizontal_position": 204,
+          "vertical_position": 134,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "1",
+          "price": "20.00",
+          "horizontal_position": 288,
+          "vertical_position": 106,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "6",
+          "price": "17.00",
+          "horizontal_position": 218,
+          "vertical_position": 148,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "12",
+          "price": "22.00",
+          "horizontal_position": 134,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
           "row_num": "6",
-          "seat_num": "71",
-          "price": "38.00",
+          "seat_num": "11",
+          "price": "20.00",
+          "horizontal_position": 148,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "16",
+          "price": "20.00",
+          "horizontal_position": 78,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "7",
+          "price": "22.00",
+          "horizontal_position": 204,
+          "vertical_position": 64,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "9",
+          "price": "20.00",
+          "horizontal_position": 176,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "1",
+          "price": "20.00",
+          "horizontal_position": 288,
+          "vertical_position": 134,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "14",
+          "price": "20.00",
+          "horizontal_position": 92,
+          "vertical_position": 50,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "15",
+          "price": "20.00",
+          "horizontal_position": 92,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "8",
+          "price": "22.00",
+          "horizontal_position": 176,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "12",
+          "seat_num": "1",
+          "price": "12.00",
+          "horizontal_position": 106,
+          "vertical_position": 204,
+          "available": true
+        },
+        {
+          "row_num": "10",
+          "seat_num": "6",
+          "price": "17.00",
+          "horizontal_position": 190,
+          "vertical_position": 176,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "8",
+          "price": "20.00",
+          "horizontal_position": 190,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "9",
+          "seat_num": "13",
+          "price": "17.00",
+          "horizontal_position": 120,
+          "vertical_position": 162,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "16",
+          "price": "20.00",
+          "horizontal_position": 64,
+          "vertical_position": 50,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "3",
+          "price": "20.00",
+          "horizontal_position": 260,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "12",
+          "price": "20.00",
+          "horizontal_position": 134,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "5",
+          "price": "20.00",
+          "horizontal_position": 232,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "13",
+          "price": "22.00",
+          "horizontal_position": 120,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "11",
+          "price": "22.00",
+          "horizontal_position": 134,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "10",
+          "seat_num": "3",
+          "price": "17.00",
+          "horizontal_position": 260,
+          "vertical_position": 176,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "4",
+          "price": "20.00",
+          "horizontal_position": 246,
+          "vertical_position": 134,
+          "available": false
+        },
+        {
+          "row_num": "9",
+          "seat_num": "16",
+          "price": "17.00",
+          "horizontal_position": 78,
+          "vertical_position": 162,
+          "available": true
+        },
+        {
+          "row_num": "10",
+          "seat_num": "9",
+          "price": "17.00",
+          "horizontal_position": 148,
+          "vertical_position": 176,
+          "available": false
+        },
+        {
+          "row_num": "12",
+          "seat_num": "4",
+          "price": "12.00",
+          "horizontal_position": 64,
+          "vertical_position": 204,
+          "available": true
+        },
+        {
+          "row_num": "9",
+          "seat_num": "10",
+          "price": "17.00",
+          "horizontal_position": 162,
+          "vertical_position": 162,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "4",
+          "price": "20.00",
+          "horizontal_position": 246,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "9",
+          "seat_num": "4",
+          "price": "17.00",
+          "horizontal_position": 246,
+          "vertical_position": 162,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "11",
+          "price": "17.00",
+          "horizontal_position": 148,
+          "vertical_position": 148,
+          "available": false
+        },
+        {
+          "row_num": "11",
+          "seat_num": "8",
+          "price": "17.00",
+          "horizontal_position": 162,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "17",
+          "price": "20.00",
+          "horizontal_position": 64,
+          "vertical_position": 134,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "2",
+          "price": "20.00",
+          "horizontal_position": 274,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "15",
+          "price": "20.00",
+          "horizontal_position": 92,
+          "vertical_position": 64,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "12",
+          "price": "20.00",
+          "horizontal_position": 134,
+          "vertical_position": 134,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "10",
+          "price": "22.00",
+          "horizontal_position": 162,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "5",
+          "price": "22.00",
+          "horizontal_position": 218,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "11",
+          "seat_num": "14",
+          "price": "17.00",
+          "horizontal_position": 64,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "7",
+          "price": "22.00",
+          "horizontal_position": 204,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "6",
+          "price": "20.00",
+          "horizontal_position": 218,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "9",
+          "seat_num": "7",
+          "price": "17.00",
+          "horizontal_position": 204,
+          "vertical_position": 162,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "11",
+          "price": "22.00",
+          "horizontal_position": 148,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "1",
+          "price": "20.00",
+          "horizontal_position": 288,
+          "vertical_position": 64,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "14",
+          "price": "17.00",
+          "horizontal_position": 106,
+          "vertical_position": 148,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "15",
+          "price": "20.00",
+          "horizontal_position": 92,
+          "vertical_position": 134,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "8",
+          "price": "17.00",
+          "horizontal_position": 190,
+          "vertical_position": 148,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "2",
+          "price": "20.00",
+          "horizontal_position": 260,
+          "vertical_position": 50,
+          "available": true
+        },
+        {
+          "row_num": "11",
+          "seat_num": "11",
+          "price": "17.00",
+          "horizontal_position": 106,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
+          "row_num": "13",
+          "seat_num": "2",
+          "price": "12.00",
+          "horizontal_position": 92,
+          "vertical_position": 218,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "17",
+          "price": "20.00",
+          "horizontal_position": 64,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "3",
+          "price": "20.00",
+          "horizontal_position": 260,
+          "vertical_position": 106,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "14",
+          "price": "20.00",
+          "horizontal_position": 106,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "13",
+          "seat_num": "5",
+          "price": "12.00",
+          "horizontal_position": 50,
+          "vertical_position": 218,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "9",
+          "price": "22.00",
+          "horizontal_position": 176,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "2",
+          "price": "20.00",
+          "horizontal_position": 274,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "11",
+          "seat_num": "2",
+          "price": "17.00",
+          "horizontal_position": 274,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "1",
+          "price": "20.00",
+          "horizontal_position": 288,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "10",
+          "seat_num": "11",
+          "price": "17.00",
+          "horizontal_position": 106,
+          "vertical_position": 176,
+          "available": true
+        },
+        {
+          "row_num": "6",
+          "seat_num": "16",
+          "price": "20.00",
+          "horizontal_position": 78,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "9",
+          "seat_num": "15",
+          "price": "17.00",
+          "horizontal_position": 92,
+          "vertical_position": 162,
+          "available": true
+        },
+        {
+          "row_num": "10",
+          "seat_num": "8",
+          "price": "17.00",
+          "horizontal_position": 162,
+          "vertical_position": 176,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "10",
+          "price": "20.00",
+          "horizontal_position": 162,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "5",
+          "price": "17.00",
+          "horizontal_position": 232,
+          "vertical_position": 148,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "14",
+          "price": "20.00",
+          "horizontal_position": 106,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "9",
+          "seat_num": "1",
+          "price": "17.00",
+          "horizontal_position": 288,
+          "vertical_position": 162,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "5",
+          "price": "22.00",
+          "horizontal_position": 232,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "11",
+          "seat_num": "5",
+          "price": "17.00",
+          "horizontal_position": 204,
+          "vertical_position": 190,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "12",
+          "price": "22.00",
+          "horizontal_position": 134,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "10",
+          "seat_num": "14",
+          "price": "17.00",
+          "horizontal_position": 64,
+          "vertical_position": 176,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "13",
+          "price": "20.00",
+          "horizontal_position": 106,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "4",
+          "price": "20.00",
+          "horizontal_position": 246,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "6",
+          "price": "20.00",
+          "horizontal_position": 218,
+          "vertical_position": 134,
+          "available": true
+        },
+        {
+          "row_num": "7",
+          "seat_num": "9",
+          "price": "20.00",
+          "horizontal_position": 176,
+          "vertical_position": 134,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "2",
+          "price": "17.00",
+          "horizontal_position": 274,
+          "vertical_position": 148,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "8",
+          "price": "22.00",
+          "horizontal_position": 190,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "13",
+          "price": "20.00",
+          "horizontal_position": 120,
+          "vertical_position": 120,
+          "available": false
+        }
+      ]
+    },
+    {
+      "title": "EKSKURSIJA LIEPĀJAS TEĀTRĪ / LV",
+      "date": "Svētdiena , 8. jūnijs, 12:00",
+      "location": "Liepāja, Liepājas teātris",
+      "link": "https://www.bilesuparadize.lv/lv/event/150945",
+      "available": false,
+      "priceMin": "10€",
+      "seats": "ieejas biļetes"
+    },
+    {
+      "title": "KINO /KĀ PIERADINĀT PŪĶI/",
+      "date": "Svētdiena , 8. jūnijs, 12:15",
+      "location": "Cēsis, koncertzāle CĒSIS, Kino zāle",
+      "link": "https://www.bilesuparadize.lv/lv/event/153475",
+      "available": true,
+      "priceMin": "7€",
+      "seats": [
+        {
+          "row_num": "1",
+          "seat_num": "8",
+          "price": "7.00",
+          "horizontal_position": 124,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "7",
+          "price": "7.00",
+          "horizontal_position": 152,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "15",
+          "price": "7.00",
+          "horizontal_position": 40,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "*",
+          "price": "7.00",
+          "horizontal_position": 28,
+          "vertical_position": 99,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "2",
+          "price": "7.00",
+          "horizontal_position": 208,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "10",
+          "price": "7.00",
+          "horizontal_position": 110,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "4",
+          "price": "7.00",
+          "horizontal_position": 194,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "12",
+          "price": "7.00",
+          "horizontal_position": 82,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "5",
+          "price": "7.00",
+          "horizontal_position": 166,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "9",
+          "price": "7.00",
+          "horizontal_position": 124,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "6",
+          "price": "7.00",
+          "horizontal_position": 166,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "6",
+          "price": "7.00",
+          "horizontal_position": 96,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "11",
+          "price": "7.00",
+          "horizontal_position": 96,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "3",
+          "price": "7.00",
+          "horizontal_position": 208,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "14",
+          "price": "7.00",
+          "horizontal_position": 54,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "8",
+          "price": "7.00",
+          "horizontal_position": 138,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "1",
+          "price": "7.00",
+          "horizontal_position": 236,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "2",
+          "price": "7.00",
+          "horizontal_position": 222,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "9",
+          "price": "7.00",
+          "horizontal_position": 124,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "10",
+          "price": "7.00",
+          "horizontal_position": 96,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "15",
+          "price": "7.00",
+          "horizontal_position": 40,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "*",
+          "price": "7.00",
+          "horizontal_position": 45,
+          "vertical_position": 100,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "5",
+          "price": "7.00",
+          "horizontal_position": 180,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "13",
+          "price": "7.00",
+          "horizontal_position": 54,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "7",
+          "price": "7.00",
+          "horizontal_position": 138,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "12",
+          "price": "7.00",
+          "horizontal_position": 82,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "3",
+          "price": "7.00",
+          "horizontal_position": 180,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "1",
+          "price": "7.00",
+          "horizontal_position": 208,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "11",
+          "price": "7.00",
+          "horizontal_position": 96,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "4",
+          "price": "7.00",
+          "horizontal_position": 180,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "13",
+          "price": "7.00",
+          "horizontal_position": 68,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "14",
+          "price": "7.00",
+          "horizontal_position": 54,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "6",
+          "price": "7.00",
+          "horizontal_position": 166,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "8",
+          "price": "7.00",
+          "horizontal_position": 138,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "3",
+          "price": "7.00",
+          "horizontal_position": 208,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "1",
+          "price": "7.00",
+          "horizontal_position": 222,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "12",
+          "price": "7.00",
+          "horizontal_position": 68,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "2",
+          "price": "7.00",
+          "horizontal_position": 222,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "7",
+          "price": "7.00",
+          "horizontal_position": 152,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "8",
+          "price": "7.00",
+          "horizontal_position": 68,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "2",
+          "price": "7.00",
+          "horizontal_position": 194,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "5",
+          "price": "7.00",
+          "horizontal_position": 180,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "5",
+          "price": "7.00",
+          "horizontal_position": 110,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "10",
+          "price": "7.00",
+          "horizontal_position": 110,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "11",
+          "price": "7.00",
+          "horizontal_position": 96,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "4",
+          "price": "7.00",
+          "horizontal_position": 194,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "13",
+          "price": "7.00",
+          "horizontal_position": 68,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "6",
+          "price": "7.00",
+          "horizontal_position": 152,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "8",
+          "price": "7.00",
+          "horizontal_position": 138,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "9",
+          "price": "7.00",
+          "horizontal_position": 110,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "1",
+          "price": "7.00",
+          "horizontal_position": 236,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "14",
+          "price": "7.00",
+          "horizontal_position": 54,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "*",
+          "price": "7.00",
+          "horizontal_position": 228,
+          "vertical_position": 100,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "3",
+          "price": "7.00",
+          "horizontal_position": 194,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "5",
+          "price": "7.00",
+          "horizontal_position": 180,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "7",
+          "price": "7.00",
+          "horizontal_position": 152,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "2",
+          "price": "7.00",
+          "horizontal_position": 222,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "15",
+          "price": "7.00",
+          "horizontal_position": 40,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "10",
+          "price": "7.00",
+          "horizontal_position": 110,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "7",
+          "price": "7.00",
+          "horizontal_position": 82,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "12",
+          "price": "7.00",
+          "horizontal_position": 82,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "14",
+          "price": "7.00",
+          "horizontal_position": 40,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "13",
+          "price": "7.00",
+          "horizontal_position": 68,
+          "vertical_position": 82,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "4",
+          "price": "7.00",
+          "horizontal_position": 194,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "5",
+          "seat_num": "4",
+          "price": "7.00",
+          "horizontal_position": 166,
+          "vertical_position": 96,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "9",
+          "price": "7.00",
+          "horizontal_position": 124,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "3",
+          "price": "7.00",
+          "horizontal_position": 208,
+          "vertical_position": 54,
+          "available": true
+        },
+        {
+          "row_num": "1",
+          "seat_num": "11",
+          "price": "7.00",
+          "horizontal_position": 82,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "1",
+          "price": "7.00",
+          "horizontal_position": 236,
+          "vertical_position": 68,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "6",
+          "price": "7.00",
+          "horizontal_position": 166,
+          "vertical_position": 54,
+          "available": true
+        }
+      ]
+    },
+    {
+      "title": "DONA PERLIMPLINA MĪLESTĪBA",
+      "date": "Svētdiena , 8. jūnijs, 13:00",
+      "location": "Valmiera, KURTUVE, laikmetīgās mākslas telpa",
+      "link": "https://www.bilesuparadize.lv/lv/event/149681",
+      "available": false,
+      "priceMin": "20€",
+      "seats": [
+        {
+          "row_num": "3",
+          "seat_num": "7",
+          "price": "20.00",
+          "horizontal_position": 162,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "16",
+          "price": "20.00",
+          "horizontal_position": 288,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "8",
+          "price": "20.00",
+          "horizontal_position": 176,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "16",
+          "price": "20.00",
+          "horizontal_position": 260,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "17",
+          "price": "20.00",
+          "horizontal_position": 302,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "12",
+          "price": "20.00",
+          "horizontal_position": 232,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "4",
+          "price": "20.00",
+          "horizontal_position": 120,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "13",
+          "price": "20.00",
+          "horizontal_position": 246,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "1",
+          "price": "20.00",
+          "horizontal_position": 78,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "11",
+          "price": "20.00",
+          "horizontal_position": 218,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "5",
+          "price": "20.00",
+          "horizontal_position": 134,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "19",
+          "price": "20.00",
+          "horizontal_position": 302,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "15",
+          "price": "20.00",
+          "horizontal_position": 274,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "14",
+          "price": "20.00",
+          "horizontal_position": 260,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "5",
+          "price": "20.00",
+          "horizontal_position": 106,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "13",
+          "price": "20.00",
+          "horizontal_position": 246,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "1",
+          "price": "20.00",
+          "horizontal_position": 78,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "4",
+          "price": "20.00",
+          "horizontal_position": 120,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "2",
+          "price": "20.00",
+          "horizontal_position": 64,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "9",
+          "price": "20.00",
+          "horizontal_position": 190,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "10",
+          "price": "20.00",
+          "horizontal_position": 204,
+          "vertical_position": 78,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "3",
+          "price": "20.00",
+          "horizontal_position": 106,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "8",
+          "price": "20.00",
+          "horizontal_position": 148,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "17",
+          "price": "20.00",
+          "horizontal_position": 302,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "2",
+          "price": "20.00",
+          "horizontal_position": 92,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "5",
+          "price": "20.00",
+          "horizontal_position": 134,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "6",
+          "price": "20.00",
+          "horizontal_position": 148,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "11",
+          "price": "20.00",
+          "horizontal_position": 190,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "8",
+          "price": "20.00",
+          "horizontal_position": 176,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "6",
+          "price": "20.00",
+          "horizontal_position": 148,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "3",
+          "price": "20.00",
+          "horizontal_position": 106,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "10",
+          "price": "20.00",
+          "horizontal_position": 204,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "15",
+          "price": "20.00",
+          "horizontal_position": 274,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "11",
+          "price": "20.00",
+          "horizontal_position": 218,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "14",
+          "price": "20.00",
+          "horizontal_position": 232,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "16",
+          "price": "20.00",
+          "horizontal_position": 288,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "2",
+          "price": "20.00",
+          "horizontal_position": 92,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "7",
+          "price": "20.00",
+          "horizontal_position": 162,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "12",
+          "price": "20.00",
+          "horizontal_position": 232,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "12",
+          "price": "20.00",
+          "horizontal_position": 232,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "5",
+          "price": "20.00",
+          "horizontal_position": 134,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "14",
+          "price": "20.00",
+          "horizontal_position": 260,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "1",
+          "price": "20.00",
+          "horizontal_position": 78,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "20",
+          "price": "20.00",
+          "horizontal_position": 316,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "16",
+          "price": "20.00",
+          "horizontal_position": 288,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "17",
+          "price": "20.00",
+          "horizontal_position": 302,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "8",
+          "price": "20.00",
+          "horizontal_position": 176,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "9",
+          "price": "20.00",
+          "horizontal_position": 190,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "1",
+          "price": "20.00",
+          "horizontal_position": 78,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "17",
+          "price": "20.00",
+          "horizontal_position": 274,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "4",
+          "price": "20.00",
+          "horizontal_position": 120,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "3",
+          "price": "20.00",
+          "horizontal_position": 78,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "13",
+          "price": "20.00",
+          "horizontal_position": 246,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "2",
+          "price": "20.00",
+          "horizontal_position": 92,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "11",
+          "price": "20.00",
+          "horizontal_position": 218,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "9",
+          "price": "20.00",
+          "horizontal_position": 162,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "6",
+          "price": "20.00",
+          "horizontal_position": 148,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "17",
+          "price": "20.00",
+          "horizontal_position": 302,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "3",
+          "price": "20.00",
+          "horizontal_position": 106,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "7",
+          "price": "20.00",
+          "horizontal_position": 162,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "13",
+          "price": "20.00",
+          "horizontal_position": 246,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "15",
+          "price": "20.00",
+          "horizontal_position": 274,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "6",
+          "price": "20.00",
+          "horizontal_position": 120,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "14",
+          "price": "20.00",
+          "horizontal_position": 260,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "5",
+          "price": "20.00",
+          "horizontal_position": 134,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "10",
+          "price": "20.00",
+          "horizontal_position": 204,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "12",
+          "price": "20.00",
+          "horizontal_position": 232,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "15",
+          "price": "20.00",
+          "horizontal_position": 246,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "4",
+          "price": "20.00",
+          "horizontal_position": 120,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "18",
+          "price": "20.00",
+          "horizontal_position": 288,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "3",
+          "price": "20.00",
+          "horizontal_position": 106,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "8",
+          "price": "20.00",
+          "horizontal_position": 176,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "14",
+          "price": "20.00",
+          "horizontal_position": 260,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "15",
+          "price": "20.00",
+          "horizontal_position": 274,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "12",
+          "price": "20.00",
+          "horizontal_position": 204,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "9",
+          "price": "20.00",
+          "horizontal_position": 190,
+          "vertical_position": 50,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "7",
+          "price": "20.00",
+          "horizontal_position": 162,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "11",
+          "price": "20.00",
+          "horizontal_position": 218,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "16",
+          "price": "20.00",
+          "horizontal_position": 288,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "2",
+          "price": "20.00",
+          "horizontal_position": 92,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "9",
+          "price": "20.00",
+          "horizontal_position": 190,
+          "vertical_position": 78,
+          "available": true
+        },
+        {
+          "row_num": "4",
+          "seat_num": "16",
+          "price": "20.00",
+          "horizontal_position": 288,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "10",
+          "price": "20.00",
+          "horizontal_position": 204,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "1",
+          "price": "20.00",
+          "horizontal_position": 50,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "5",
+          "price": "20.00",
+          "horizontal_position": 134,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "4",
+          "price": "20.00",
           "horizontal_position": 92,
           "vertical_position": 120,
           "available": false
         },
         {
           "row_num": "4",
-          "seat_num": "46",
-          "price": "38.00",
-          "horizontal_position": 120,
+          "seat_num": "13",
+          "price": "20.00",
+          "horizontal_position": 246,
           "vertical_position": 92,
           "available": false
         },
         {
-          "row_num": "5",
-          "seat_num": "56",
-          "price": "38.00",
-          "horizontal_position": 71,
-          "vertical_position": 106,
-          "available": false
-        },
-        {
-          "row_num": "1",
+          "row_num": "3",
           "seat_num": "6",
-          "price": "38.00",
-          "horizontal_position": 127,
-          "vertical_position": 50,
+          "price": "20.00",
+          "horizontal_position": 148,
+          "vertical_position": 78,
           "available": false
         },
         {
           "row_num": "3",
-          "seat_num": "31",
-          "price": "38.00",
-          "horizontal_position": 113,
+          "seat_num": "1",
+          "price": "20.00",
+          "horizontal_position": 78,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "12",
+          "price": "20.00",
+          "horizontal_position": 232,
           "vertical_position": 78,
           "available": false
         },
         {
           "row_num": "6",
-          "seat_num": "74",
-          "price": "38.00",
+          "seat_num": "21",
+          "price": "20.00",
+          "horizontal_position": 330,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "17",
+          "price": "20.00",
+          "horizontal_position": 302,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "7",
+          "price": "20.00",
           "horizontal_position": 134,
           "vertical_position": 120,
           "available": false
         },
         {
-          "row_num": "3",
-          "seat_num": "34",
-          "price": "38.00",
-          "horizontal_position": 155,
-          "vertical_position": 78,
-          "available": false
-        },
-        {
-          "row_num": "4",
-          "seat_num": "52",
-          "price": "35.00",
+          "row_num": "1",
+          "seat_num": "10",
+          "price": "20.00",
           "horizontal_position": 204,
-          "vertical_position": 92,
-          "available": false
-        },
-        {
-          "row_num": "3",
-          "seat_num": "28",
-          "price": "38.00",
-          "horizontal_position": 71,
-          "vertical_position": 78,
+          "vertical_position": 50,
           "available": false
         },
         {
           "row_num": "6",
-          "seat_num": "77",
-          "price": "38.00",
+          "seat_num": "13",
+          "price": "20.00",
+          "horizontal_position": 218,
+          "vertical_position": 120,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "15",
+          "price": "20.00",
+          "horizontal_position": 274,
+          "vertical_position": 78,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "6",
+          "price": "20.00",
+          "horizontal_position": 148,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "11",
+          "price": "20.00",
+          "horizontal_position": 218,
+          "vertical_position": 64,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "10",
+          "price": "20.00",
           "horizontal_position": 176,
           "vertical_position": 120,
           "available": false
         },
         {
+          "row_num": "5",
+          "seat_num": "3",
+          "price": "20.00",
+          "horizontal_position": 106,
+          "vertical_position": 106,
+          "available": false
+        },
+        {
           "row_num": "1",
-          "seat_num": "9",
-          "price": "38.00",
-          "horizontal_position": 169,
+          "seat_num": "7",
+          "price": "20.00",
+          "horizontal_position": 162,
           "vertical_position": 50,
           "available": false
         },
         {
+          "row_num": "4",
+          "seat_num": "2",
+          "price": "20.00",
+          "horizontal_position": 92,
+          "vertical_position": 92,
+          "available": false
+        },
+        {
           "row_num": "1",
-          "seat_num": "12",
-          "price": "35.00",
-          "horizontal_position": 211,
+          "seat_num": "4",
+          "price": "20.00",
+          "horizontal_position": 120,
           "vertical_position": 50,
           "available": false
-        }
-      ]
-    },
-    {
-      "title": "KINO / MINECRAFT FILMA/",
-      "date": "Ceturtdiena , 5. jūnijs, 14:30",
-      "location": "Cēsis, koncertzāle CĒSIS, Kino zāle",
-      "link": "https://www.bilesuparadize.lv/lv/event/153573",
-      "available": true,
-      "priceMin": "7€",
-      "seats": [
-        {
-          "row_num": "1",
-          "seat_num": "8",
-          "price": "7.00",
-          "horizontal_position": 124,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "7",
-          "price": "7.00",
-          "horizontal_position": 152,
-          "vertical_position": 82,
-          "available": false
-        },
-        {
-          "row_num": "3",
-          "seat_num": "15",
-          "price": "7.00",
-          "horizontal_position": 40,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "*",
-          "price": "7.00",
-          "horizontal_position": 28,
-          "vertical_position": 99,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "2",
-          "price": "7.00",
-          "horizontal_position": 208,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "10",
-          "price": "7.00",
-          "horizontal_position": 110,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "4",
-          "price": "7.00",
-          "horizontal_position": 194,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "12",
-          "price": "7.00",
-          "horizontal_position": 82,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "5",
-          "price": "7.00",
-          "horizontal_position": 166,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "9",
-          "price": "7.00",
-          "horizontal_position": 124,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "6",
-          "price": "7.00",
-          "horizontal_position": 166,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "6",
-          "price": "7.00",
-          "horizontal_position": 96,
-          "vertical_position": 96,
-          "available": true
         },
         {
           "row_num": "2",
-          "seat_num": "11",
-          "price": "7.00",
-          "horizontal_position": 96,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "3",
-          "price": "7.00",
-          "horizontal_position": 208,
-          "vertical_position": 68,
-          "available": true
+          "seat_num": "8",
+          "price": "20.00",
+          "horizontal_position": 176,
+          "vertical_position": 64,
+          "available": false
         },
         {
           "row_num": "2",
           "seat_num": "14",
-          "price": "7.00",
-          "horizontal_position": 54,
-          "vertical_position": 54,
-          "available": true
+          "price": "20.00",
+          "horizontal_position": 260,
+          "vertical_position": 64,
+          "available": false
         },
         {
-          "row_num": "2",
-          "seat_num": "8",
-          "price": "7.00",
-          "horizontal_position": 138,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "1",
-          "price": "7.00",
-          "horizontal_position": 236,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "2",
-          "price": "7.00",
-          "horizontal_position": 222,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "4",
+          "row_num": "5",
           "seat_num": "9",
-          "price": "7.00",
-          "horizontal_position": 124,
-          "vertical_position": 82,
-          "available": false
-        },
-        {
-          "row_num": "1",
-          "seat_num": "10",
-          "price": "7.00",
-          "horizontal_position": 96,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "4",
-          "seat_num": "15",
-          "price": "7.00",
-          "horizontal_position": 40,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "*",
-          "price": "7.00",
-          "horizontal_position": 45,
-          "vertical_position": 100,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "5",
-          "price": "7.00",
-          "horizontal_position": 180,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "13",
-          "price": "7.00",
-          "horizontal_position": 54,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "7",
-          "price": "7.00",
-          "horizontal_position": 138,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "12",
-          "price": "7.00",
-          "horizontal_position": 82,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "3",
-          "price": "7.00",
-          "horizontal_position": 180,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "1",
-          "price": "7.00",
-          "horizontal_position": 208,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "11",
-          "price": "7.00",
-          "horizontal_position": 96,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "4",
-          "price": "7.00",
-          "horizontal_position": 180,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "13",
-          "price": "7.00",
-          "horizontal_position": 68,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "14",
-          "price": "7.00",
-          "horizontal_position": 54,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "6",
-          "price": "7.00",
-          "horizontal_position": 166,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "8",
-          "price": "7.00",
-          "horizontal_position": 138,
-          "vertical_position": 68,
-          "available": false
-        },
-        {
-          "row_num": "4",
-          "seat_num": "3",
-          "price": "7.00",
-          "horizontal_position": 208,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "1",
-          "price": "7.00",
-          "horizontal_position": 222,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "12",
-          "price": "7.00",
-          "horizontal_position": 68,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "2",
-          "price": "7.00",
-          "horizontal_position": 222,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "7",
-          "price": "7.00",
-          "horizontal_position": 152,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "8",
-          "price": "7.00",
-          "horizontal_position": 68,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "2",
-          "price": "7.00",
-          "horizontal_position": 194,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "5",
-          "price": "7.00",
-          "horizontal_position": 180,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "5",
-          "price": "7.00",
-          "horizontal_position": 110,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "10",
-          "price": "7.00",
-          "horizontal_position": 110,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "11",
-          "price": "7.00",
-          "horizontal_position": 96,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "4",
-          "price": "7.00",
-          "horizontal_position": 194,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "13",
-          "price": "7.00",
-          "horizontal_position": 68,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "6",
-          "price": "7.00",
-          "horizontal_position": 152,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "8",
-          "price": "7.00",
-          "horizontal_position": 138,
-          "vertical_position": 82,
-          "available": false
-        },
-        {
-          "row_num": "1",
-          "seat_num": "9",
-          "price": "7.00",
-          "horizontal_position": 110,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "2",
-          "seat_num": "1",
-          "price": "7.00",
-          "horizontal_position": 236,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "14",
-          "price": "7.00",
-          "horizontal_position": 54,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "*",
-          "price": "7.00",
-          "horizontal_position": 228,
-          "vertical_position": 100,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "3",
-          "price": "7.00",
-          "horizontal_position": 194,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "5",
-          "price": "7.00",
-          "horizontal_position": 180,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "7",
-          "price": "7.00",
-          "horizontal_position": 152,
-          "vertical_position": 68,
-          "available": false
-        },
-        {
-          "row_num": "4",
-          "seat_num": "2",
-          "price": "7.00",
-          "horizontal_position": 222,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "15",
-          "price": "7.00",
-          "horizontal_position": 40,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "10",
-          "price": "7.00",
-          "horizontal_position": 110,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "7",
-          "price": "7.00",
-          "horizontal_position": 82,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "12",
-          "price": "7.00",
-          "horizontal_position": 82,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "14",
-          "price": "7.00",
-          "horizontal_position": 40,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "13",
-          "price": "7.00",
-          "horizontal_position": 68,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "4",
-          "price": "7.00",
-          "horizontal_position": 194,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "4",
-          "price": "7.00",
-          "horizontal_position": 166,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "9",
-          "price": "7.00",
-          "horizontal_position": 124,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "3",
-          "price": "7.00",
-          "horizontal_position": 208,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "11",
-          "price": "7.00",
-          "horizontal_position": 82,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "1",
-          "price": "7.00",
-          "horizontal_position": 236,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "6",
-          "price": "7.00",
-          "horizontal_position": 166,
-          "vertical_position": 54,
-          "available": true
-        }
-      ]
-    },
-    {
-      "title": "Noorsooteater (Igaunija) viesizrāde I MUŠA, PRUSAKS UN ZIRNEKLIS",
-      "date": "Ceturtdiena , 5. jūnijs, 15:00",
-      "location": "Daugavpils, Daugavpils teātris/pie teātra ieejas",
-      "link": "https://www.bilesuparadize.lv/lv/event/152389",
-      "available": false,
-      "priceMin": "10€",
-      "seats": [
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 68,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 152,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 82,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 166,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 124,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 82,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 54,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 40,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 96,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 138,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 54,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 40,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 96,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 110,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 68,
-          "vertical_position": 40,
+          "price": "20.00",
+          "horizontal_position": 190,
+          "vertical_position": 106,
           "available": false
         }
       ]
-    },
-    {
-      "title": "Noorsooteater (Igaunija) viesizrāde I MUŠA, PRUSAKS UN ZIRNEKLIS",
-      "date": "Ceturtdiena , 5. jūnijs, 16:00",
-      "location": "Daugavpils, Daugavpils teātris/pie teātra ieejas",
-      "link": "https://www.bilesuparadize.lv/lv/event/152390",
-      "available": false,
-      "priceMin": "10€",
-      "seats": [
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 68,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 152,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 82,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 166,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 124,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 82,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 54,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 40,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 96,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 138,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 54,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 40,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 96,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 110,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 68,
-          "vertical_position": 40,
-          "available": false
-        }
-      ]
-    },
-    {
-      "title": "Noorsooteater (Igaunija) viesizrāde I MUŠA, PRUSAKS UN ZIRNEKLIS",
-      "date": "Ceturtdiena , 5. jūnijs, 17:00",
-      "location": "Daugavpils, Daugavpils teātris/pie teātra ieejas",
-      "link": "https://www.bilesuparadize.lv/lv/event/152391",
-      "available": false,
-      "priceMin": "10€",
-      "seats": "ieejas biļetes"
-    },
-    {
-      "title": "KINO /DŽEINA OSTINA SABOJĀJA MANU DZĪVI/",
-      "date": "Ceturtdiena , 5. jūnijs, 17:00",
-      "location": "Cēsis, koncertzāle CĒSIS, Kino zāle",
-      "link": "https://www.bilesuparadize.lv/lv/event/153574",
-      "available": true,
-      "priceMin": "7€",
-      "seats": [
-        {
-          "row_num": "1",
-          "seat_num": "8",
-          "price": "7.00",
-          "horizontal_position": 124,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "7",
-          "price": "7.00",
-          "horizontal_position": 152,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "15",
-          "price": "7.00",
-          "horizontal_position": 40,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "*",
-          "price": "7.00",
-          "horizontal_position": 28,
-          "vertical_position": 99,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "2",
-          "price": "7.00",
-          "horizontal_position": 208,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "10",
-          "price": "7.00",
-          "horizontal_position": 110,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "4",
-          "price": "7.00",
-          "horizontal_position": 194,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "12",
-          "price": "7.00",
-          "horizontal_position": 82,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "5",
-          "price": "7.00",
-          "horizontal_position": 166,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "9",
-          "price": "7.00",
-          "horizontal_position": 124,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "6",
-          "price": "7.00",
-          "horizontal_position": 166,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "6",
-          "price": "7.00",
-          "horizontal_position": 96,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "11",
-          "price": "7.00",
-          "horizontal_position": 96,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "3",
-          "price": "7.00",
-          "horizontal_position": 208,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "14",
-          "price": "7.00",
-          "horizontal_position": 54,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "8",
-          "price": "7.00",
-          "horizontal_position": 138,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "1",
-          "price": "7.00",
-          "horizontal_position": 236,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "2",
-          "price": "7.00",
-          "horizontal_position": 222,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "9",
-          "price": "7.00",
-          "horizontal_position": 124,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "10",
-          "price": "7.00",
-          "horizontal_position": 96,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "15",
-          "price": "7.00",
-          "horizontal_position": 40,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "*",
-          "price": "7.00",
-          "horizontal_position": 45,
-          "vertical_position": 100,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "5",
-          "price": "7.00",
-          "horizontal_position": 180,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "13",
-          "price": "7.00",
-          "horizontal_position": 54,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "7",
-          "price": "7.00",
-          "horizontal_position": 138,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "12",
-          "price": "7.00",
-          "horizontal_position": 82,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "3",
-          "price": "7.00",
-          "horizontal_position": 180,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "1",
-          "price": "7.00",
-          "horizontal_position": 208,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "11",
-          "price": "7.00",
-          "horizontal_position": 96,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "4",
-          "price": "7.00",
-          "horizontal_position": 180,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "13",
-          "price": "7.00",
-          "horizontal_position": 68,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "14",
-          "price": "7.00",
-          "horizontal_position": 54,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "6",
-          "price": "7.00",
-          "horizontal_position": 166,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "8",
-          "price": "7.00",
-          "horizontal_position": 138,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "3",
-          "price": "7.00",
-          "horizontal_position": 208,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "1",
-          "price": "7.00",
-          "horizontal_position": 222,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "12",
-          "price": "7.00",
-          "horizontal_position": 68,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "2",
-          "price": "7.00",
-          "horizontal_position": 222,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "7",
-          "price": "7.00",
-          "horizontal_position": 152,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "8",
-          "price": "7.00",
-          "horizontal_position": 68,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "2",
-          "price": "7.00",
-          "horizontal_position": 194,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "5",
-          "price": "7.00",
-          "horizontal_position": 180,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "5",
-          "price": "7.00",
-          "horizontal_position": 110,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "10",
-          "price": "7.00",
-          "horizontal_position": 110,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "11",
-          "price": "7.00",
-          "horizontal_position": 96,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "4",
-          "price": "7.00",
-          "horizontal_position": 194,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "13",
-          "price": "7.00",
-          "horizontal_position": 68,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "6",
-          "price": "7.00",
-          "horizontal_position": 152,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "8",
-          "price": "7.00",
-          "horizontal_position": 138,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "9",
-          "price": "7.00",
-          "horizontal_position": 110,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "1",
-          "price": "7.00",
-          "horizontal_position": 236,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "14",
-          "price": "7.00",
-          "horizontal_position": 54,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "*",
-          "price": "7.00",
-          "horizontal_position": 228,
-          "vertical_position": 100,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "3",
-          "price": "7.00",
-          "horizontal_position": 194,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "5",
-          "price": "7.00",
-          "horizontal_position": 180,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "7",
-          "price": "7.00",
-          "horizontal_position": 152,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "2",
-          "price": "7.00",
-          "horizontal_position": 222,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "15",
-          "price": "7.00",
-          "horizontal_position": 40,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "10",
-          "price": "7.00",
-          "horizontal_position": 110,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "7",
-          "price": "7.00",
-          "horizontal_position": 82,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "12",
-          "price": "7.00",
-          "horizontal_position": 82,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "14",
-          "price": "7.00",
-          "horizontal_position": 40,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "4",
-          "seat_num": "13",
-          "price": "7.00",
-          "horizontal_position": 68,
-          "vertical_position": 82,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "4",
-          "price": "7.00",
-          "horizontal_position": 194,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "5",
-          "seat_num": "4",
-          "price": "7.00",
-          "horizontal_position": 166,
-          "vertical_position": 96,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "9",
-          "price": "7.00",
-          "horizontal_position": 124,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "3",
-          "price": "7.00",
-          "horizontal_position": 208,
-          "vertical_position": 54,
-          "available": true
-        },
-        {
-          "row_num": "1",
-          "seat_num": "11",
-          "price": "7.00",
-          "horizontal_position": 82,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "3",
-          "seat_num": "1",
-          "price": "7.00",
-          "horizontal_position": 236,
-          "vertical_position": 68,
-          "available": true
-        },
-        {
-          "row_num": "2",
-          "seat_num": "6",
-          "price": "7.00",
-          "horizontal_position": 166,
-          "vertical_position": 54,
-          "available": true
-        }
-      ]
-    },
-    {
-      "title": "Noorsooteater (Igaunija) viesizrāde I MUŠA, PRUSAKS UN ZIRNEKLIS",
-      "date": "Ceturtdiena , 5. jūnijs, 18:00",
-      "location": "Daugavpils, Daugavpils teātris/pie teātra ieejas",
-      "link": "https://www.bilesuparadize.lv/lv/event/152392",
-      "available": false,
-      "priceMin": "10€",
-      "seats": [
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 68,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 152,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 82,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 166,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 124,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 82,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 54,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 40,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 96,
-          "vertical_position": 40,
-          "available": true
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 138,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 54,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 40,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 96,
-          "vertical_position": 54,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 110,
-          "vertical_position": 40,
-          "available": false
-        },
-        {
-          "row_num": "*",
-          "seat_num": "*",
-          "price": "10.00",
-          "horizontal_position": 68,
-          "vertical_position": 40,
-          "available": false
-        }
-      ]
-    },
-    {
-      "title": "Koncerts \"Sonātes un dziesmas\"",
-      "date": "Ceturtdiena , 5. jūnijs, 18:00",
-      "location": "Rīga, Latvijas Mūzikas akadēmija, Jaunā kamerzāle",
-      "link": "https://www.bilesuparadize.lv/lv/event/153594",
-      "available": true,
-      "priceMin": "5€",
-      "seats": "ieejas biļetes"
-    },
-    {
-      "title": "STARPBRĪDIS | Andris Keišs 50",
-      "date": "Ceturtdiena , 5. jūnijs, 18:00",
-      "location": "Rīga, DAILE mūzikas nams",
-      "link": "https://www.bilesuparadize.lv/lv/event/152057",
-      "available": true,
-      "priceMin": "40€",
-      "seats": "ieejas biļetes"
-    },
-    {
-      "title": "STĀSTS PAR PARSIFALU",
-      "date": "Ceturtdiena , 5. jūnijs, 18:00",
-      "location": "Rīga, Jaunais Rīgas teātris, Lielā zāle",
-      "link": "https://www.bilesuparadize.lv/lv/event/151101",
-      "available": false,
-      "priceMin": "50€",
-      "seats": "ieejas biļetes"
-    },
-    {
-      "title": "ĢIT viesizrāde I MONSTERA DELICIOSA",
-      "date": "Ceturtdiena , 5. jūnijs, 18:30",
-      "location": "Daugavpils, Daugavpils teātris Lielā zāle",
-      "link": "https://www.bilesuparadize.lv/lv/event/152378",
-      "available": true,
-      "priceMin": "10€",
-      "seats": "ieejas biļetes"
     },
     {
       "title": "PAZUDUŠAIS DĒLS",
-      "date": "Ceturtdiena , 5. jūnijs, 18:30",
+      "date": "Svētdiena , 8. jūnijs, 13:00",
       "location": "Valmiera, Valmieras teātris Apaļā zāle",
-      "link": "https://www.bilesuparadize.lv/lv/event/149770",
+      "link": "https://www.bilesuparadize.lv/lv/event/149772",
       "available": false,
       "priceMin": "28€",
       "seats": "ieejas biļetes"
     },
     {
-      "title": "Divas Lotiņas",
-      "date": "Ceturtdiena , 5. jūnijs, 18:30",
-      "location": "Rīga, Latvijas Leļļu teātris Mazā zāle",
-      "link": "https://www.bilesuparadize.lv/lv/event/150240",
+      "title": "KINO/KĀ PIERADINĀT PŪĶI",
+      "date": "Svētdiena , 8. jūnijs, 13:30",
+      "location": "Daugavpils, Daugavpils Kultūras Pils, Multimediju zāle",
+      "link": "https://www.bilesuparadize.lv/lv/event/153826",
       "available": false,
-      "priceMin": "18€",
+      "priceMin": "5€",
+      "seats": [
+        {
+          "row_num": "8",
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 110,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 40,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "11",
+          "price": "5.00",
+          "horizontal_position": 94,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "10",
+          "price": "5.00",
+          "horizontal_position": 108,
+          "vertical_position": 110,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "12",
+          "price": "5.00",
+          "horizontal_position": 80,
+          "vertical_position": 54,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 96,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "9",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 40,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 54,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "12",
+          "price": "5.00",
+          "horizontal_position": 80,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "*",
+          "seat_num": "*",
+          "price": "3.00",
+          "horizontal_position": 98,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "12",
+          "price": "5.00",
+          "horizontal_position": 108,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "11",
+          "price": "5.00",
+          "horizontal_position": 94,
+          "vertical_position": 96,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 96,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 54,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "9",
+          "price": "5.00",
+          "horizontal_position": 122,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "15",
+          "price": "5.00",
+          "horizontal_position": 66,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 96,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 138,
+          "available": true
+        },
+        {
+          "row_num": "2",
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 54,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 110,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "10",
+          "price": "5.00",
+          "horizontal_position": 108,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "9",
+          "price": "5.00",
+          "horizontal_position": 122,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 110,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 262,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 110,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "10",
+          "price": "5.00",
+          "horizontal_position": 108,
+          "vertical_position": 54,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 40,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "10",
+          "price": "5.00",
+          "horizontal_position": 108,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "11",
+          "price": "5.00",
+          "horizontal_position": 94,
+          "vertical_position": 110,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 96,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "10",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 40,
+          "available": false
+        },
+        {
+          "row_num": "*",
+          "seat_num": "*",
+          "price": "3.00",
+          "horizontal_position": 80,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "8",
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "12",
+          "price": "5.00",
+          "horizontal_position": 80,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 40,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 96,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 54,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "16",
+          "price": "5.00",
+          "horizontal_position": 52,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "9",
+          "price": "5.00",
+          "horizontal_position": 122,
+          "vertical_position": 96,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 54,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 54,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "11",
+          "price": "5.00",
+          "horizontal_position": 94,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "13",
+          "price": "5.00",
+          "horizontal_position": 94,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "12",
+          "price": "5.00",
+          "horizontal_position": 80,
+          "vertical_position": 96,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 110,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 248,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "9",
+          "price": "5.00",
+          "horizontal_position": 122,
+          "vertical_position": 110,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "11",
+          "price": "5.00",
+          "horizontal_position": 94,
+          "vertical_position": 54,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 96,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 40,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 110,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "10",
+          "price": "5.00",
+          "horizontal_position": 108,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 54,
+          "available": false
+        },
+        {
+          "row_num": "3",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "3",
+          "price": "5.00",
+          "horizontal_position": 206,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "14",
+          "price": "5.00",
+          "horizontal_position": 80,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 40,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "7",
+          "price": "5.00",
+          "horizontal_position": 150,
+          "vertical_position": 96,
+          "available": false
+        },
+        {
+          "row_num": "*",
+          "seat_num": "*",
+          "price": "3.00",
+          "horizontal_position": 116,
+          "vertical_position": 40,
+          "available": true
+        },
+        {
+          "row_num": "3",
+          "seat_num": "11",
+          "price": "5.00",
+          "horizontal_position": 94,
+          "vertical_position": 68,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "12",
+          "price": "5.00",
+          "horizontal_position": 80,
+          "vertical_position": 110,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 96,
+          "available": false
+        },
+        {
+          "row_num": "1",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 40,
+          "available": false
+        },
+        {
+          "row_num": "8",
+          "seat_num": "11",
+          "price": "5.00",
+          "horizontal_position": 122,
+          "vertical_position": 138,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "1",
+          "price": "5.00",
+          "horizontal_position": 234,
+          "vertical_position": 110,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "2",
+          "price": "5.00",
+          "horizontal_position": 220,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "8",
+          "price": "5.00",
+          "horizontal_position": 136,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "9",
+          "price": "5.00",
+          "horizontal_position": 122,
+          "vertical_position": 54,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "12",
+          "price": "5.00",
+          "horizontal_position": 80,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "6",
+          "seat_num": "4",
+          "price": "5.00",
+          "horizontal_position": 192,
+          "vertical_position": 110,
+          "available": false
+        },
+        {
+          "row_num": "2",
+          "seat_num": "6",
+          "price": "5.00",
+          "horizontal_position": 164,
+          "vertical_position": 54,
+          "available": false
+        },
+        {
+          "row_num": "4",
+          "seat_num": "5",
+          "price": "5.00",
+          "horizontal_position": 178,
+          "vertical_position": 82,
+          "available": false
+        },
+        {
+          "row_num": "7",
+          "seat_num": "9",
+          "price": "5.00",
+          "horizontal_position": 122,
+          "vertical_position": 124,
+          "available": false
+        },
+        {
+          "row_num": "5",
+          "seat_num": "10",
+          "price": "5.00",
+          "horizontal_position": 108,
+          "vertical_position": 96,
+          "available": false
+        }
+      ]
+    },
+    {
+      "title": "Vasarsvētki Bīriņu Pilī ar Lielo Šlāgerkoncertu",
+      "date": "Svētdiena , 8. jūnijs, 13:30",
+      "location": "Bīriņi, Bīriņu Pils",
+      "link": "https://www.bilesuparadize.lv/lv/event/151669",
+      "available": true,
+      "priceMin": "20€",
       "seats": "ieejas biļetes"
     },
     {
-      "title": "Jaunās ēras cirks CITA DIMENSIJA",
-      "date": "Ceturtdiena , 5. jūnijs, 19:00",
-      "location": "Salaspils, Cirka telts, Salaspils, Nometņu iela 7",
-      "link": "https://www.bilesuparadize.lv/lv/event/153461",
+      "title": "Emīls un Berlīnes zēni",
+      "date": "Svētdiena , 8. jūnijs, 14:00",
+      "location": "Rīga, Latvijas Leļļu teātris Lielā zāle",
+      "link": "https://www.bilesuparadize.lv/lv/event/150219",
       "available": true,
-      "priceMin": "10€",
+      "priceMin": "17€",
       "seats": "ieejas biļetes"
     },
     {
-      "title": "KINO /FENIĶIEŠU SHĒMA/",
-      "date": "Ceturtdiena , 5. jūnijs, 19:00",
-      "location": "Cēsis, koncertzāle CĒSIS, Kino zāle",
-      "link": "https://www.bilesuparadize.lv/lv/event/153575",
+      "title": "ANSĪTIS UN GRIETIŅA",
+      "date": "Svētdiena , 8. jūnijs, 15:00",
+      "location": "Liepāja, Liepājas Leļļu teātris",
+      "link": "https://www.bilesuparadize.lv/lv/event/153290",
       "available": true,
-      "priceMin": "7€",
+      "priceMin": "12€",
+      "seats": "ieejas biļetes"
+    },
+    {
+      "title": "Concerto Piccolo",
+      "date": "Svētdiena , 8. jūnijs, 15:00",
+      "location": "Rīga, Rīgas Doms",
+      "link": "https://www.bilesuparadize.lv/lv/event/151475",
+      "available": true,
+      "priceMin": "15€",
+      "seats": "ieejas biļetes"
+    },
+    {
+      "title": "Deju skolas “Vendija” koncerts “Sapņi un Atmiņas”",
+      "date": "Svētdiena , 8. jūnijs, 15:00",
+      "location": "Rīga, VEF Kultūras pils",
+      "link": "https://www.bilesuparadize.lv/lv/event/153703",
+      "available": true,
+      "priceMin": "15€",
+      "seats": "ieejas biļetes"
+    },
+    {
+      "title": "KINO/KARATĒ PUIKA: LEĢENDAS",
+      "date": "Svētdiena , 8. jūnijs, 16:00",
+      "location": "Daugavpils, Daugavpils Kultūras Pils, Multimediju zāle",
+      "link": "https://www.bilesuparadize.lv/lv/event/153802",
+      "available": true,
+      "priceMin": "5€",
+      "seats": "ieejas biļetes"
+    },
+    {
+      "title": "Latvijas Radio 2 30 gadu jubilejas koncerts “Radio cauri laikiem”",
+      "date": "Svētdiena , 8. jūnijs, 17:00",
+      "location": "Jūrmala, Dzintaru Koncertzāle Lielā zāle",
+      "link": "https://www.bilesuparadize.lv/lv/event/151052",
+      "available": true,
+      "priceMin": "30€",
+      "seats": "ieejas biļetes"
+    },
+    {
+      "title": "STARPBRĪDIS | Andris Keišs 50",
+      "date": "Svētdiena , 8. jūnijs, 17:00",
+      "location": "Cēsis, koncertzāle CĒSIS",
+      "link": "https://www.bilesuparadize.lv/lv/event/152667",
+      "available": true,
+      "priceMin": "40€",
+      "seats": "ieejas biļetes"
+    },
+    {
+      "title": "Rūdolfs Blaumanis SKRODERDIENAS SILMAČOS | Ogres teātra izrāde",
+      "date": "Svētdiena , 8. jūnijs, 18:00",
+      "location": "Ogre, Ogres novada Kultūras centrs, Lielā zāle",
+      "link": "https://www.bilesuparadize.lv/lv/event/153605",
+      "available": false,
+      "priceMin": "0€",
       "seats": "ieejas biļetes"
     }
   ]
